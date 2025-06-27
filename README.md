@@ -8,9 +8,7 @@ gitnot is built on a simple idea: versioning doesn’t need to be complex. It’
 
 ## 📦 Installation
 
-Run Install.sh File with
-
-> ``` bash install.sh ```
+[get yanked](https://github.com/codinganovel/yanked)
 
 ## 🚀 Usage
 
